@@ -1,0 +1,6 @@
+This is everything you will need to run the program
+mysql-connector-python
+pandas
+plotly
+SQLAlchemy
+pymysql
