@@ -7,5 +7,5 @@ input: docker-compose up-d
 then make sure to pip install everything in the requirements file
 with: pip install -r requirements.txt
 
-then to run the ingestion file type : python data_ingest.py
+then to run the ingestion file type : python insertdata.py
 then run: python visualization.py
