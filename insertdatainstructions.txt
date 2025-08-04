@@ -1,0 +1,8 @@
+The insertdata script will simply
+connect to mysql
+generate 30 days worth of values in 5 categories
+then insert them into the sample_data table
+
+To run type:
+python insertdata.py
+in the command prompt
