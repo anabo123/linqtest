@@ -1,0 +1,7 @@
+The visualization script will
+collect the data from MySQL that was inserted by the last program
+then translate the contents of that data to form a line chart with plotly
+Finally it will open the image of the chart in a browser
+
+  To Run:
+python visualization.py
